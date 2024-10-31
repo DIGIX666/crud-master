@@ -1,0 +1,1 @@
+{"dependencies":[["dotenv-deployment",["~> 0.0.2"]],["dotenv",["~> 0.9"]],["vagrant-env",["= 0.0.3"]],["racc",["~> 1.4"]],["nokogiri",[">= 0"]],["vagrant-parallels",["= 2.4.2"]]],"checksum":"263a1d84364e703e31bd1e4f7ab1de3fcdcec400be1d7a16e0b76d08677ff740","vagrant_version":"2.4.1"}
